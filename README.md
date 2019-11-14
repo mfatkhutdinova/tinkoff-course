@@ -1,4 +1,4 @@
 # tinkoff_courses
-###- Finance  
+### - Finance  
 This is short theses about investments - https://journal.tinkoff.ru/pro/invest/#/
-###- Software architecture 
+### - Software architecture 
